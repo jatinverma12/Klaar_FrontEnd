@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Klaar_FrontEnd/static/css/main.0d658bd7.chunk.css",
+    "main.js": "/Klaar_FrontEnd/static/js/main.a9fde0a0.chunk.js",
+    "main.js.map": "/Klaar_FrontEnd/static/js/main.a9fde0a0.chunk.js.map",
+    "runtime-main.js": "/Klaar_FrontEnd/static/js/runtime-main.dded7c7b.js",
+    "runtime-main.js.map": "/Klaar_FrontEnd/static/js/runtime-main.dded7c7b.js.map",
+    "static/js/2.11f67794.chunk.js": "/Klaar_FrontEnd/static/js/2.11f67794.chunk.js",
+    "static/js/2.11f67794.chunk.js.map": "/Klaar_FrontEnd/static/js/2.11f67794.chunk.js.map",
+    "static/js/3.1d0b1016.chunk.js": "/Klaar_FrontEnd/static/js/3.1d0b1016.chunk.js",
+    "static/js/3.1d0b1016.chunk.js.map": "/Klaar_FrontEnd/static/js/3.1d0b1016.chunk.js.map",
+    "index.html": "/Klaar_FrontEnd/index.html",
+    "static/css/main.0d658bd7.chunk.css.map": "/Klaar_FrontEnd/static/css/main.0d658bd7.chunk.css.map",
+    "static/js/2.11f67794.chunk.js.LICENSE.txt": "/Klaar_FrontEnd/static/js/2.11f67794.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dded7c7b.js",
+    "static/js/2.11f67794.chunk.js",
+    "static/css/main.0d658bd7.chunk.css",
+    "static/js/main.a9fde0a0.chunk.js"
+  ]
+}
