@@ -1,0 +1,58 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Kiwi Smoothie",
+      "carbs": 39,
+      "protein": 57,
+      "fat": 38,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/kiwi-smoothie-3086931.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Frozen Grapes",
+      "carbs": 49,
+      "protein": 47,
+      "fat": 48,
+      "image": "https://veganheaven.org/wp-content/uploads/2017/07/Frozen-Grapes-The-Best-Snack-Ever-7.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fruit Salad",
+      "protein": 57,
+      "fat": 58,
+      "carbs": 59,
+      "image": "https://www.thespruceeats.com/thmb/qlT2neuIBeMYNR4w0K_GR-e2wZ4=/1885x1414/smart/filters:no_upscale()/Fruitsalad-GettyImages-811628388-5a0b1547482c5200372ddcd9.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pina Colada",
+      "carbs": "2",
+      "protein": "90",
+      "fat": "4",
+      "image": "https://images.absolutdrinks.com/drink-images/Raw/Absolut/d32f1cf1-2a28-463b-9b64-26be5eaf75ed.jpg?imwidth=500"
+    },
+    {
+      "id": 5,
+      "name": "Banana Smoothie",
+      "carbs": "15",
+      "protein": "30",
+      "fat": "20",
+      "image": "https://kristineskitchenblog.com/wp-content/uploads/2021/04/banana-smoothie-1200-square-519.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "jatin@gmail.com",
+      "password": "jatin",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "email": "shubham@gmail.com",
+      "password": "shubham",
+      "isAdmin": false
+    }
+  ]
+}

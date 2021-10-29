@@ -1,0 +1,25 @@
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  font-size: 14px;
+  text-transform: none;
+}
+
+h1 {
+  font-size: 2rem;
+  text-transform: none;
+}
+
+h2 {
+  font-size: 1.2em;
+  padding: 0.5rem 0;
+  text-transform: none;
+}
+.table-sm td {
+  font-size: 14px;
+}
+.card-body {
+  font-family: 'Roboto', sans-serif;
+}
